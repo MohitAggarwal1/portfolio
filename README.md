@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio  [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-blue)](https://mohitaggarwal1.github.io/portfolio/)
 
 Welcome to my portfolio! This repository showcases my projects, skills, and achievements. It serves as a comprehensive representation of my journey as a developer, learner, and problem solver. Below you will find an overview of the contents and how to navigate this portfolio.
 
@@ -61,10 +61,10 @@ Here are the technical skills and tools I am proficient in:
 ## Contact
 Feel free to reach out to me for collaborations, inquiries, or just to say hi!
 
-- **Email:** [mohitaggarwal0510@gmail.com]
-- **LinkedIn:** [https://www.linkedin.com/in/mohitaggarwalofficial]
-- **GitHub:** [https://github.com/MohitAggarwal1]
-- **Portfolio Website:** [https://mohitaggarwal1.github.io/portfolio/]
+- **Email:** mohitaggarwal0510@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/mohitaggarwalofficial
+- **GitHub:** https://github.com/MohitAggarwal1
+- **Portfolio Website:** https://mohitaggarwal1.github.io/portfolio/
 
 ---
 
